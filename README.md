@@ -3,6 +3,7 @@
 ## Overview
 
 Slides and materials for **EKOPARTY Miami**.
+Google video links are embedded within the PDF
 
 ---
 
